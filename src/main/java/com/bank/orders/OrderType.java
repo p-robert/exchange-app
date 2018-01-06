@@ -1,4 +1,4 @@
-package com.bank.orders;
+package main.java.com.bank.orders;
 
 
 public enum OrderType {
